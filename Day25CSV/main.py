@@ -1,12 +1,11 @@
+import csv
+import pandas
+
 # with open("weather_data.csv") as file:
 #     data = file.readlines()
 #     for d in range(len(data)):
 #         data[d] = data[d].strip()
 # print(data)
-
-import csv
-
-import pandas
 
 # with open("weather_data.csv") as data_file:
 #     data = list(csv.reader(data_file))
