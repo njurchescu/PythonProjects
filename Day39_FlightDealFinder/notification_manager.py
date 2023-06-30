@@ -5,7 +5,7 @@ sender_email = "nick.jurchescu@gmail.com"
 password = "olsjmekpmjzpsutg"
 
 TWILIO_SID = "AC2dea3741df92ac48fcac3e52f4990fd1"
-TWILIO_AUTH_TOKEN = "0ff17b746e09f725d2cc30bb0f5a46a8"
+TWILIO_AUTH_TOKEN = "0ff17b746e09f725d2cc30bb0f5*****"
 
 
 class NotificationManager:
