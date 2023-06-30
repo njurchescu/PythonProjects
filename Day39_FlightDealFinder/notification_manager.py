@@ -4,7 +4,7 @@ import smtplib
 sender_email = "ni**.jur***cu@gmail.com"
 password = "olsjme******"
 
-TWILIO_SID = "AC2dea3741df92ac48fcac3e52f4990fd1"
+TWILIO_SID = "AC2dea3741df92ac48fcac3e5*******"
 TWILIO_AUTH_TOKEN = "0ff17b746e09f725d2cc30bb0f5*****"
 
 
