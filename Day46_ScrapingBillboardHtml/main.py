@@ -4,8 +4,8 @@ import spotipy
 from spotipy.oauth2 import SpotifyOAuth
 from pprint import pprint
 
-Client_ID = "39aa53c16b494aca8097e952bc9646c8"
-Client_secret = "681248be9fca46b58f53144e96cadaf6"
+Client_ID = "39aa53c16b494aca8097e95*******"
+Client_secret = "681248be9fca46b58f*********"
 
 date = input("Which year do you want to travel? Type the date in this format YYYY-MM-DD:")
 URL = f"https://www.billboard.com/charts/hot-100/{date}/"
