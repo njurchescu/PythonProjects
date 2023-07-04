@@ -1,3 +1,4 @@
+# Scrapes archive.org for 100 movies to watch and creates a text file with them
 import requests
 from bs4 import BeautifulSoup
 
