@@ -1,3 +1,5 @@
+# Creates a playlist on Spotify using the BeautifulSoup and Spotipy Library
+
 import requests
 from bs4 import BeautifulSoup
 import spotipy
