@@ -1,3 +1,5 @@
+# Check for jobs on linkedin and save them
+
 from selenium import webdriver
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.common.by import By
